@@ -1,4 +1,4 @@
-# Project Title
+# Computer Simulation
 
 This project contains a frontend application built with React and a backend application written in Python. The instructions below will guide you through setting up and running both the frontend and backend applications.
 
@@ -17,7 +17,7 @@ Follow these steps to set up and run the applications.
 
 1. Navigate to the `frontend` directory:
     ```bash
-    cd frontend
+    cd src/frontend
     ```
 
 2. Install the dependencies:
@@ -34,7 +34,7 @@ Follow these steps to set up and run the applications.
 
 1. Navigate to the `backend` directory:
     ```bash
-    cd backend
+    cd src/backend
     ```
 
 2. Install the Python dependencies:
