@@ -1,4 +1,4 @@
-#!/home/dasjero98772/Desktop/Java-Computer-Emulator-/scr/backend/env/bin/python
+#!/home/dasjero98772/Desktop/Computer_Simulation/src/backend/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
